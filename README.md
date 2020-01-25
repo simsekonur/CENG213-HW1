@@ -1,3 +1,3 @@
 # CENG213-HW1
 
-METU CENG Data Structures the first assignment
+The linked list implementation that I have done in the data structure course of METU.
